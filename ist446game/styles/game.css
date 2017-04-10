@@ -1,0 +1,14 @@
+html
+{
+	background: black;
+}
+
+canvas
+{
+	/*border: 1px solid #555555;*/
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -300px;
+	margin-left: -400px;
+}
